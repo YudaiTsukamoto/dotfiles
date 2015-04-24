@@ -1,0 +1,14 @@
+AnsiEsc.vim
+css.vim
+neobundle.vim
+neocomplete-rsense.vim
+neocomplete.vim
+nerdtree
+scss-syntax.vim
+syntastic
+tcomment_vim
+unite.vim
+vim-endwise
+vim-fugitive
+vim-trailing-whitespace
+vimproc

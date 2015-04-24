@@ -1,0 +1,12 @@
+[core]
+	editer = vim -f
+[user]
+	name = Yudai Tsukamoto
+	email = yudai.tsukamoto@litalico.co.jp
+[push]
+	default = simple
+[alias]
+	graph = log  --graph --date-order --all --pretty=format:'%h %Cred%d %Cgreen%ad %Cbrue%cn %Creset%s' --date=short
+	co = checkout
+[color]
+	ui = auto
